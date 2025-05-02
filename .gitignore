@@ -1,0 +1,26 @@
+# PyCharm project files
+.idea/
+*.iml
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ngrok-related files
+ngrok.exe
+ngrok.yml
+ngrok.log
+
+# Virtual environment
+venv/
+env/
+.env
+.venv/
+
+# Other common ignores
+*.log
+*.bak
+*.swp
+.DS_Store
